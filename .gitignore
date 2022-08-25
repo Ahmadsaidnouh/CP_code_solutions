@@ -4,6 +4,7 @@ acm-level1/prefixsum_twopointers_binarySearch/*.bin
 acm-level1/prefixsum_twopointers_binarySearch/*.exe
 codeforces/*.bin
 codeforces/*.exe
+codeforces/text.txt
 hackerank/*.bin
 hackerank/*.exe
 leetcode/*.bin
